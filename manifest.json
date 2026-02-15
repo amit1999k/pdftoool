@@ -1,0 +1,19 @@
+
+{
+  "manifest_version": 3,
+  "name": "PDF Crop Pro",
+  "version": "1.0.0",
+  "description": "Visual PDF cropper with AI-powered content detection and e-commerce label splitting.",
+  "action": {
+    "default_title": "Open PDF Crop Pro"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage", "tabs"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

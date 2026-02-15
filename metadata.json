@@ -1,0 +1,5 @@
+{
+  "name": "PDF Crop Pro",
+  "description": "A high-performance web tool to visually crop PDF documents, remove margins, and optimize layouts using AI-powered content detection.",
+  "requestFramePermissions": []
+}
